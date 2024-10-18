@@ -23,9 +23,11 @@ p {
     cursor: pointer;
     letter-spacing: 1px;
     box-shadow: 0 5px 5px #333333;
+.styled-button {
+    background-color: #28a745;
 }
 
 .styled-button:hover {
-    background-color:#28a745;
-    color: #343a40;
+    background-color: #218838;
 }
+
